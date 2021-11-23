@@ -14,7 +14,4 @@ for _ in range(100):
 
 with open('assets/potential-contacts.txt', 'w+') as file:
     file.write(content)
-
-# import shutil
-
-# shutil.copy('contacts.txt', 'contacts.txt.bak')
+    
